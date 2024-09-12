@@ -1,2 +1,8 @@
 # Python virtual enviroment.
 venv
+
+# VS Code.
+.vscode
+
+# Assembler output.
+*.out
